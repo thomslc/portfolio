@@ -544,7 +544,7 @@ a {
       right: 0;
       bottom: 0;
       content: "";
-      background: rgba(0, 0, 0, 0.4); }
+      background: rgba(0,0,0,0.4); }
     .cover-v1.overlay .mbYTP_wrapper {
       z-index: -1; }
   .cover-v1 .container {
@@ -556,7 +556,7 @@ a {
   .cover-v1 .heading {
     font-size: 5rem;
     font-weight: 900;
-    color: #3369e7; }
+    color: rgba(73,80,87); }
     @media (max-width: 991.98px) {
       .cover-v1 .heading {
         font-size: 3rem; } }
@@ -1143,6 +1143,7 @@ figure.dotted-bg {
     height: auto !important; }
   .form-outline-style-v1 .form-group label {
     font-size: 12px;
+    font-family:monospace ;
     display: block;
     margin-bottom: 0;
     color: #222;
@@ -1524,6 +1525,10 @@ span.error {
       -webkit-transform: translateX(-100%);
       -ms-transform: translateX(-100%);
       transform: translateX(-100%); }
+
+      .reveal-content span{
+        color: #3369e7;
+      }
 
 .gsap-reveal-img {
   line-height: 0; }
