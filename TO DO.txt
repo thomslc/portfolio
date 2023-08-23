@@ -4,4 +4,5 @@
 - creer un QR
 - updater le CV et CV allemand
 - corriger dot sur le nom
-- 
+- supprimer adresse
+- Telephone
