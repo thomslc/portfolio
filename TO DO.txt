@@ -5,4 +5,6 @@
 - updater le CV et CV allemand
 - corriger dot sur le nom
 - supprimer adresse
-- Telephone
+- Telephone allemand
+- Un seul reseau (linkedin)
+--> Porfo: commencer avec projet terminé puis antichronologique ? Double diamond process 
