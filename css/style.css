@@ -245,7 +245,7 @@ a {
                   -webkit-transform: translateY(-50%);
                   -ms-transform: translateY(-50%);
                   transform: translateY(-50%);
-                  font-family: 'icomoon'; }
+                  font-family:Verdana, Geneva, Tahoma, sans-serif; }
               .unslate_co--site-nav .site-nav-ul > li.has-children > .dropdown > li.has-children > .dropdown, .unslate_co--site-nav .site-nav-ul > li.has-children > .dropdown > li.has-children > ul, .unslate_co--site-nav .site-nav-ul > li.has-children > ul > li.has-children > .dropdown, .unslate_co--site-nav .site-nav-ul > li.has-children > ul > li.has-children > ul, .unslate_co--site-nav .site-nav-ul-none-onepage > li.has-children > .dropdown > li.has-children > .dropdown, .unslate_co--site-nav .site-nav-ul-none-onepage > li.has-children > .dropdown > li.has-children > ul, .unslate_co--site-nav .site-nav-ul-none-onepage > li.has-children > ul > li.has-children > .dropdown, .unslate_co--site-nav .site-nav-ul-none-onepage > li.has-children > ul > li.has-children > ul {
                 z-index: 1;
                 visibility: hidden;
