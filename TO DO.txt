@@ -1,3 +1,5 @@
+- remove this silly to do
+
 - Add soft and hard skills
 - changer spacing
 - reduire gallery
